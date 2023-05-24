@@ -4,3 +4,31 @@ Graphical user interface testing.
 
 The first and the main strategy in any Automation process is to start the day with coffee IMHO
 AND, moreover, finish it with a sip of wine (or more) 
+
+How to define test strategy?
+A test strategy is an outline that describes the testing approach of the software development cycle. The purpose of a test strategy is to provide a rational deduction from organizational, high-level objectives to actual test activities to meet those objectives from a quality assurance perspective.
+
+Advantages of Test Automation Frameworks
+
+Code Reusability: Since these frameworks come with the required coding data beneficial for the automation test to become a success, the valuable data is saved for future use and can be reused at any given point in time. There is no need to insert codes manually or rearrange them. The code can also be utilized to run other automation framework tests. The developed scripts can also be retained.
+Low Cost: Test cases can be developed fairly cheaply because the frameworks already have established rules. Also, given these codes can be reused multiple times, the cost and time of building test cases for new features are low.
+Minimal Manual Interference: The automation frameworks run according to the guidelines that surround them. Since maximum coverage is already in-built and achieved at the initial stage, there is very little or no intervention required by individuals to run the automation tests. If the process fails, the automation frameworks can be rerun with some change, but the data remains constant and devoid of additional effort from an individual or team.
+Improved Efficiency: Test automation frameworks increase productivity due to standardization. It guarantees maximum test coverage as the set of codes in a framework is executed in a standard manner from the beginning.
+Types of Test Automation Frameworks
+
+You can utilize one or more of the following automation frameworks for your tests. All these have been tried and tested and provide optimum results to ensure your tests are comprehensive:
+
+1. Data-Driven Testing Framework
+While testing an automation framework, a series of tests must be conducted before a successful outcome is derived. You might need to change the test data in such cases to try to arrive at a different conclusion. The Data-Driven Testing Framework allows you to store the test data in an external drive, which can be accessed later to add a new script to the test case.
+2. Keyword-Driven Testing Framework
+Usually considered an extension of the data-driven testing framework, the keyword-driven testing framework extracts your test data from an external source and safely maintains the set of codes. These codes are also referred to as ‘keywords’ and can be used to alter the test script to conclude further possible outcomes from the test framework. These keywords also essentially decide the functions performed by every application.
+3. Hybrid Testing Framework
+The hybrid testing framework combines the data-driven and keyword-driven frameworks to execute the most out of the frameworks above. It is the ideal automation framework, allowing more scope for increased productivity and better success.
+4. Linear Scripting Framework
+Unlike the above, Linear Scripting is carried out manually by an individual who records every step of the process. This framework is known as the Record and Playback framework and takes up ample time to execute. It does not rely on automation expertise and might be a simple way to record a script, but it does not leave any space for script reuse. It also takes time for maintenance, and you would have to hand-code the test script to run the framework in the future.
+5. Module-Based Testing Framework
+As the name suggests, the Module-Based Testing Framework requires the existence of various modules to run the framework. You would have to create separate scripts for every module and collaborate with them to generate the best results from the automation test. The modules would not be affected if variations were made in how the application works. The scripts remain unharmed until one manually alters them.
+This offers a cost-efficient management method since combining several modules creates a high level of modularization. Productivity remains at its peak. However, much time and effort can go into individually making changes to the test data in case there is a need.
+
+
+
