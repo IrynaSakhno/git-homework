@@ -1,4 +1,4 @@
-There are five general approaches to test automation:
+There are ten general approaches to test automation:
 Code-driven testing. The public (usually) interfaces to classes, modules or libraries are tested with a variety of input arguments to validate that the results that are returned are correct.
 Graphical user interface testing.
 
